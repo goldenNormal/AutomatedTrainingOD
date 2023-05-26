@@ -1,4 +1,5 @@
 # EntropyStop
+The official code for paper "Unleashing the Potential of Unsupervised Deep Outlier Detection through Automated Training Stopping".
 
 ## Dependencies
 This code requires the following:
